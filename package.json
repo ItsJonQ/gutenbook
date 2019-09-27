@@ -1,8 +1,9 @@
 {
   "name": "gutenbook",
   "version": "0.0.1",
-  "description": "",
+  "description": "An experimental Storybook-based Gutenberg block dev environment",
   "main": "index.js",
+  "repository": "git+https://github.com/itsjonq/gutenbook.git",
   "scripts": {
     "start": "npm run storybook",
     "test": "echo \"Error: no test specified\" && exit 1",

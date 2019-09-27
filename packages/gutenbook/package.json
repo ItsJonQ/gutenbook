@@ -1,3 +1,4 @@
 {
-    "name": "gutenbook"
+    "name": "gutenbook",
+    "repository": "git+https://github.com/itsjonq/gutenbook.git"
 }
