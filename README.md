@@ -2,6 +2,8 @@
 
 > An experimental Storybook-based Gutenberg block dev environment.
 
+![Gutenbook demo](./images/gutenbook-demo.gif)
+
 ## Get started
 
 Once you clone this repo, install the project's dependencies by running:
