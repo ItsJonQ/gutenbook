@@ -1,0 +1,26 @@
+.BasicCard {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0.8px 1.6px rgba(0, 0, 0, 0.1),
+    0px 1.6px 6.4px rgba(0, 0, 0, 0.1), 0px 8px 24px rgba(0, 0, 0, 0.1);
+
+  h1 {
+    margin: 0 0 10px;
+    line-height: 1;
+  }
+}
+
+.BasicCardContent {
+  opacity: 0.7;
+  word-break: break-word;
+}
+
+.rich-text {
+  &:hover {
+    background: rgba(0, 0, 255, 0.05);
+  }
+  &:focus {
+    background: rgba(0, 0, 255, 0.1);
+    box-shadow: 0 2px 0 rgba(0, 0, 255, 0.6);
+  }
+}
